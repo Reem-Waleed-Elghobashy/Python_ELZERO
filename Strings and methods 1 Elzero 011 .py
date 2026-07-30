@@ -1,4 +1,4 @@
-"""
+
 # Strings 
 myString1 = 'This is single quote '
 myString2 = "This is double quote "
@@ -8,18 +8,18 @@ print(myString1)
 print(myString2)
 print(myString3)
 print(myString4)
-"""
 
-# myString5='''First
-# Second 'Test' "Test"
-# Third'''
 
-# myString6="""First
-# Second "Test"  'Test' \\
-# Third"""
-# print(myString5)
-# print(myString6)
-# """
+ myString5='''First
+ Second 'Test' "Test"
+ Third'''
+
+ myString6="""First
+ Second "Test"  'Test' \\
+ Third"""
+ print(myString5)
+ print(myString6)
+ """
 # 012
 
 #Strings Indexing & Slicing
@@ -31,7 +31,7 @@ print(myString4)
 # Enable Accessing Parts Of Strings , Tubles Or lists
 
 # Indexing (Acess Single item)
-"""
+
 myString = "I Love Python"
 print(myString[0])
 print(myString[9])
@@ -53,7 +53,7 @@ print(myString[::1]) #full data
 
 print(myString[::2]) 
 print(myString[::3])
-"""
+
 #013
 
 a="I Love Python"
